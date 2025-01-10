@@ -1,4 +1,4 @@
-##  🚀 Classificador de Nível de Herói
+##  🚀 Classificador de Nível de Herói [Python]
 
 ## Propósito do Projeto
 
