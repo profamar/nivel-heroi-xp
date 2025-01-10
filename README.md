@@ -1,27 +1,48 @@
 # 1️⃣ Desafio Classificador de nível de Herói
-Este desafio consiste em desenvolver um programa simples que classifica o nível de um herói com base na quantidade de experiência (XP) acumulada. O objetivo é aplicar conceitos básicos de programação como variáveis, operadores, laços de repetição e estruturas de decisão.
 
-**O Que deve ser utilizado**
+## Propósito do Projeto
 
-- Variáveis
-- Operadores
-- Laços de repetição
-- Estruturas de decisões
+O projeto **Nível Herói XP** tem como objetivo classificar heróis em diferentes níveis com base em sua quantidade de experiência (XP). Cada herói recebe uma classificação que varia desde "Ferro" até "Radiante" de acordo com os critérios definidos. Este projeto é uma ótima maneira de entender conceitos fundamentais de programação, como variáveis, operadores, estruturas de decisão e testes unitários.
 
-## Objetivo
+## Tecnologias Utilizadas
 
-Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
+- **Python**: Linguagem de programação usada para escrever a lógica do programa e os testes.
+- **unittest**: Biblioteca de testes unitários integrada ao Python, utilizada para garantir que a função de classificação funciona corretamente.
+- **Git**: Sistema de controle de versão para gerenciar o código-fonte do projeto.
+- **GitHub**: Plataforma para hospedar o repositório do projeto e colaborar com outros desenvolvedores.
 
-Se XP for menor do que 1.000 = Ferro
-Se XP for entre 1.001 e 2.000 = Bronze
-Se XP for entre 2.001 e 5.000 = Prata
-Se XP for entre 5.001 e 7.000 = Ouro
-Se XP for entre 7.001 e 8.000 = Platina
-Se XP for entre 8.001 e 9.000 = Ascendente
-Se XP for entre 9.001 e 10.000= Imortal
-Se XP for maior ou igual a 10.001 = Radiante
+## Estrutura do Projeto
 
-## Saída
+nivel-heroi-xp/  
+├── README.md              # Documentação do projeto  
+├── .gitignore             # Arquivo de exclusões do Git  
+├── main.py                # Código principal  
+├── test_main.py           # Testes automatizados  
+├── data/                  # Pasta de dados  
+│   └── banco_de_dados.json  # Base de dados  
+├── assets/                # Recursos visuais  
+│   └── imagens_exemplo.png  # Exemplo de imagem  
+└── docs/                  # Documentação adicional  
+    └── diagramas.md       # Diagramas explicativos  
 
-Ao final deve se exibir uma mensagem:
-"O Herói de nome **{nome}** está no nível de **{nivel}**"
+## Como Executar o Programa
+
+### Pré-requisitos
+
+- **Python 3.x**: Certifique-se de ter o Python instalado. Você pode baixá-lo em [python.org](https://www.python.org/).
+- **Git**: Certifique-se de ter o Git instalado. Você pode baixá-lo em [git-scm.com](https://git-scm.com/).
+
+### Passos para Executar
+
+1. **Clone o Repositório:**
+   ```sh
+   git clone https://github.com/profamar/nivel-heroi-xp.git
+   cd nivel-heroi-xp
+2.Instale as Dependências (se houver):
+pip install -r requirements.txt
+
+3.Execute o Script Principal:
+python main.py
+
+4.python -m unittest test_main.py
+
