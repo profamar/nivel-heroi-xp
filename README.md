@@ -1,4 +1,4 @@
-##  🚀 Desafio Classificador de Nível de Herói
+##  🚀 Classificador de Nível de Herói
 
 ## Propósito do Projeto
 
@@ -55,4 +55,13 @@ Operadores: Empregados para comparar os valores de XP e determinar o nível do h
 Estruturas de Decisão: Utilizamos if, elif e else para decidir o nível do herói com base na quantidade de XP.
 
 Laços de Repetição: Embora este projeto específico não utilize laços de repetição, eles poderiam ser aplicados em futuros desenvolvimentos, como processamento de listas de heróis.
+
+## Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
+
+## Licença
+Este projeto está licenciado sob a MIT License.
+
+## Agradecimentos
+Agradecemos à comunidade de desenvolvedores da DIO e aos nossos mentores por todo o suporte durante o desenvolvimento deste projeto.
 
