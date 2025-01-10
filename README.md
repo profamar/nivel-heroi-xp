@@ -44,5 +44,15 @@ pip install -r requirements.txt
 3.Execute o Script Principal:
 python main.py
 
-4.python -m unittest test_main.py
+4.Execute os Testes Unitários:
+python -m unittest test_main.py
+
+## Utilização de Conceitos de Programação
+Variáveis: Utilizadas para armazenar informações sobre o herói, como nome_heroi e xp_heroi.
+
+Operadores: Empregados para comparar os valores de XP e determinar o nível do herói.
+
+Estruturas de Decisão: Utilizamos if, elif e else para decidir o nível do herói com base na quantidade de XP.
+
+Laços de Repetição: Embora este projeto específico não utilize laços de repetição, eles poderiam ser aplicados em futuros desenvolvimentos, como processamento de listas de heróis.
 
