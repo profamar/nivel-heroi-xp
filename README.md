@@ -60,8 +60,12 @@ Laços de Repetição: Embora este projeto específico não utilize laços de re
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
 
 ## Licença
-Este projeto está licenciado sob a MIT License.
 
-## Agradecimentos
-Agradecemos à comunidade de desenvolvedores da DIO e aos nossos mentores por todo o suporte durante o desenvolvimento deste projeto.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
+
+## Contato
+
+Para dúvidas ou sugestões, entre em contato pelo LinkedIn: [Márcia Soares](https://www.linkedin.com/in/márcia-soares-236974256)
+
+⭐ Se este projeto foi útil para você, considere dar uma estrela!
 
