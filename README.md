@@ -1,4 +1,4 @@
-![Diagrama do Projeto](https://github.com/seu-usuario/seu-repositorio/blob/main/diagrama.png)
+![Diagrama do Projeto](https://github.com/profamar/nivel-heroi-xp/blob/main/Classificador%20de%20N%C3%ADvel%20de%20Her%C3%B3i%20%5BPython.png)
 
 ##  🚀 Classificador de Nível de Herói [Python]
 
