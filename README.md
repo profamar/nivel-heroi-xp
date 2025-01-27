@@ -1,3 +1,5 @@
+![Diagrama do Projeto](https://github.com/seu-usuario/seu-repositorio/blob/main/diagrama.png)
+
 ##  🚀 Classificador de Nível de Herói [Python]
 
 ## Propósito do Projeto
