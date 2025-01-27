@@ -2,9 +2,7 @@
 
 ##  🚀 Classificador de Nível de Herói [Python]
 
-## Propósito do Projeto
-
-O projeto **Nível Herói XP** tem como objetivo classificar heróis em diferentes níveis com base em sua quantidade de experiência (XP). Cada herói recebe uma classificação que varia desde "Ferro" até "Radiante" de acordo com os critérios definidos. Este projeto é uma ótima maneira de entender conceitos fundamentais de programação, como variáveis, operadores, estruturas de decisão e testes unitários.
+O projeto Nível Herói XP, como parte da Formação Lógica de Programação da DIO, tem como objetivo classificar heróis em diferentes níveis com base em sua quantidade de experiência (XP). Cada herói recebe uma classificação que varia desde 'Ferro' até 'Radiante' de acordo com os critérios definidos. Este projeto é uma ótima maneira de entender conceitos fundamentais de programação, como variáveis, operadores, estruturas de decisão e testes unitários.
 
 ## Tecnologias Utilizadas
 
