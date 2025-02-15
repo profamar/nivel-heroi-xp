@@ -1,6 +1,6 @@
 ![Diagrama do Projeto](https://github.com/profamar/nivel-heroi-xp/blob/main/Classificador%20de%20N%C3%ADvel%20de%20Her%C3%B3i%20%5BPython.png)
 
-##  🚀 Classificador de Nível de Herói [Python]
+##  Classificador de Nível de Herói [Python]
 
 O projeto Nível Herói XP, como parte da Formação Lógica de Programação da DIO, tem como objetivo classificar heróis em diferentes níveis com base em sua quantidade de experiência (XP). Cada herói recebe uma classificação que varia desde 'Ferro' até 'Radiante' de acordo com os critérios definidos. Este projeto é uma ótima maneira de entender conceitos fundamentais de programação, como variáveis, operadores, estruturas de decisão e testes unitários.
 
